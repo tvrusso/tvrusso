@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tvrusso&show_icons=true&title_color=63cda9&icon_color=63cda9"/>
 </p>
 
-- I'm one of the project maintainers for
+- I'm one of the project maintainers for the @Xastir project,
   [Xastir](https://github.com/xastir/Xastir).
 
 - I am a retired search and rescue incident commander, and have
@@ -13,7 +13,7 @@
 
 - I have just retired as a developer in the
   [Xyce](https://xyce.sandia.gov/) project, whose GitHub project is at
-  [Xyce](https://github.com/Xyce).  I was with that project for 23 years.
+  [Xyce](https://github.com/Xyce).  I was with the @Xyce project for 23 years.
 
 
 <!--
