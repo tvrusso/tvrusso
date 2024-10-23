@@ -11,9 +11,9 @@
   incident information for ELT searches.  These are languishing somewhat
   since I retired and since the Proj library changed its API.
 
-- I have just retired as a developer in the
+- In March of 2023 I retired as a developer in the
   [Xyce](https://xyce.sandia.gov/) project, whose GitHub project is at
-  [Xyce](https://github.com/Xyce).  I was with that project for 23 years.
+  [Xyce](https://github.com/Xyce).  I had been with that project for 23 years.
 
 
 <!--
