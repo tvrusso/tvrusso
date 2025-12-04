@@ -9,9 +9,11 @@
 [![My repo statistics](images/repos.svg)](https://github.com/cicirello/user-statistician)
 [![My language statistics](images/languages.svg)](https://github.com/cicirello/user-statistician)
 -->
-[My contribution statistics](images/contribs.svg)
-[My repo statistics](images/repos.svg)
-[My language statistics](images/languages.svg)
+![My contribution statistics](images/contribs.svg)
+  
+![My repo statistics](images/repos.svg)
+
+![My language statistics](images/languages.svg)
 
 - I'm one of the project maintainers for
   [Xastir](https://github.com/xastir/Xastir).
