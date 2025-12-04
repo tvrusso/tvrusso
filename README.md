@@ -1,7 +1,12 @@
 ### Tom Russo
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tvrusso&show_icons=true&title_color=63cda9&icon_color=63cda9"/>
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tvrusso&show_icons=true&title_color=63cda9&icon_color=63cda9"/>
 </p>
+-->
+[![My contribution statistics](images/contribs.svg)](https://github.com/cicirello/user-statistician)
+[![My repo statistics](images/repos.svg)](https://github.com/cicirello/user-statistician)
+[![My language statistics](images/languages.svg)](https://github.com/cicirello/user-statistician)
 
 - I'm one of the project maintainers for
   [Xastir](https://github.com/xastir/Xastir).
