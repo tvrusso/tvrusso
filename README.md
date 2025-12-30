@@ -13,7 +13,7 @@
 
 - I am a retired search and rescue incident commander, and have
   written a few projects designed to help search and rescue process
-  incident information for ELT searches.  These are DFLib and qDF,
+  incident information for ELT searches.  These are [DFLib](https://github.com/tvrusso/DFLib) and [qDF](https://github.com/tvrusso/qDF),
   which I recently got working again after a long period of them being
   broken.
 
