@@ -13,8 +13,9 @@
 
 - I am a retired search and rescue incident commander, and have
   written a few projects designed to help search and rescue process
-  incident information for ELT searches.  These are languishing somewhat
-  since I retired and since the Proj library changed its API.
+  incident information for ELT searches.  These are DFLib and qDF,
+  which I recently got working again after a long period of them being
+  broken.
 
 - In March of 2023 I retired as a developer in the
   [Xyce](https://xyce.sandia.gov/) project, whose GitHub project is at
