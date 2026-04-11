@@ -22,6 +22,10 @@
   [Xyce](https://github.com/Xyce).  I had been with that project for 23 years.
 
 
+  Mah zambah !z ma!g!ng n!z
+  [zranzra!zar](https://github.com/tvrusso/zamgrh_translator) bar zah
+  zambah gabz, Zamgrh.  Gaahm gab m!z mah gang! https://wwdead.com
+
 <!--
 **tvrusso/tvrusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
